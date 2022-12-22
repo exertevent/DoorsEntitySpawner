@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 
 local Window = Rayfield:CreateWindow({
 
-	Name = "C87FM Doors Entity Spawner",	LoadingTitle = "Rayfield Interface Suite",
+	Name = "C87FM Doors Entity Spawner",	LoadingTitle = "Psst",
 
 	LoadingSubtitle = "by C87FM",
 
