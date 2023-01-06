@@ -311,3 +311,10 @@ local Button = Tab:CreateButton({
 		loadstring(game:HttpGet("https://pastebin.com/raw/Q4Kn1afL"))()
 	end,
 })
+
+local Button = Tab:CreateButton({
+	Name = "Spawn Blink",
+	Callback = function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/CKeQJnpi"))()
+	end,
+})
